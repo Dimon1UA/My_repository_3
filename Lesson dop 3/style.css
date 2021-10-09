@@ -1,0 +1,16 @@
+.name{
+    background-color: rgb(0, 132, 255);
+    color: rgb(255, 255, 255);
+}
+table{
+    text-align: center;
+    font-size: 30px;
+}
+/* td:hover{
+    border: 5px solid black;
+} */
+.namea td:hover{
+    border: 5px solid blue;
+    width: 300px;
+    height: 300px;
+}
